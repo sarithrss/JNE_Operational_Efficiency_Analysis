@@ -42,11 +42,11 @@ Aspek Temuan Utama Dampak Bisnis
 - Kualitas Data (15,26% missing customer_type & 2,49% logical error): Menghambat segmentasi cross-selling & mengindikasikan bug scanning barcode.
 
 ### 🚀 5.2 Actionable Recommendations
-📈 Strategi Operasional — Evaluasi ulang SLA YES agar benar-benar 1 hari, tinjau rute & kapasitas sorting hub.
-💳 Manajemen Risiko COD — Verifikasi order & alamat lebih ketat, terapkan blacklist di area RTS tinggi.
-💰 Pemulihan Pendapatan — Standarisasi input service_type, perbaiki sistem timbangan, validasi berat negatif.
-🤝 Peningkatan Kualitas Data — Lengkapi customer_type, perbaiki sistem scanning barcode.
+- Strategi Operasional — Evaluasi ulang SLA YES agar benar-benar 1 hari, tinjau rute & kapasitas sorting hub.
+- Manajemen Risiko COD — Verifikasi order & alamat lebih ketat, terapkan blacklist di area RTS tinggi.
+- Pemulihan Pendapatan — Standarisasi input service_type, perbaiki sistem timbangan, validasi berat negatif.
+- Peningkatan Kualitas Data — Lengkapi customer_type, perbaiki sistem scanning barcode.
 
 ## 6. Contact
-Nama : Sari Theresia
-Email : saritheresia88@gmail.com
+- Nama : Sari Theresia
+- Email : saritheresia88@gmail.com
