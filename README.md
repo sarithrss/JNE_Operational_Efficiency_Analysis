@@ -25,10 +25,6 @@ meningkatkan kepuasan pelanggan, terutama di tengah lonjakan e-commerce dan pers
 - Environment: Jupyter Notebook
 
 ## 4. Project Structure
-
-copy
-
-
 📂 jne-operational-analysis
 ├── 📄 README.md (Summary & Temuan)
 ├── 📁 data
