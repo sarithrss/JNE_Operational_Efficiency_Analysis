@@ -1,0 +1,151 @@
+branch_code,branch_name,region
+B-001,JNE Cabang Utama 1,Sumatera
+B-002,JNE Cabang Utama 2,Sumatera
+B-003,JNE Cabang Utama 3,Kalimantan
+B-004,JNE Cabang Utama 4,Jabodetabek
+B-005,JNE Cabang Utama 5,Jawa Barat
+B-006,JNE Cabang Utama 6,Jawa Barat
+B-007,JNE Cabang Utama 7,Kalimantan
+B-008,JNE Cabang Utama 8,Kalimantan
+B-009,JNE Cabang Utama 9,Jawa Barat
+B-010,JNE Cabang Utama 10,Sumatera
+B-011,JNE Cabang Utama 11,Jawa Barat
+B-012,JNE Cabang Utama 12,Jawa Barat
+B-013,JNE Cabang Utama 13,Sulawesi
+B-014,JNE Cabang Utama 14,Jawa Barat
+B-015,JNE Cabang Utama 15,Sumatera
+B-016,JNE Cabang Utama 16,Jawa Timur
+B-017,JNE Cabang Utama 17,Sumatera
+B-018,JNE Cabang Utama 18,Kalimantan
+B-019,JNE Cabang Utama 19,Sumatera
+B-020,JNE Cabang Utama 20,Kalimantan
+B-021,JNE Cabang Utama 21,Sulawesi
+B-022,JNE Cabang Utama 22,Sumatera
+B-023,JNE Cabang Utama 23,Jawa Barat
+B-024,JNE Cabang Utama 24,Jawa Tengah
+B-025,JNE Cabang Utama 25,Sulawesi
+B-026,JNE Cabang Utama 26,Sumatera
+B-027,JNE Cabang Utama 27,Jawa Barat
+B-028,JNE Cabang Utama 28,Bali-Nusra
+B-029,JNE Cabang Utama 29,Bali-Nusra
+B-030,JNE Cabang Utama 30,Jawa Timur
+B-031,JNE Cabang Utama 31,Sulawesi
+B-032,JNE Cabang Utama 32,Bali-Nusra
+B-033,JNE Cabang Utama 33,Kalimantan
+B-034,JNE Cabang Utama 34,Jawa Tengah
+B-035,JNE Cabang Utama 35,Jawa Timur
+B-036,JNE Cabang Utama 36,Sulawesi
+B-037,JNE Cabang Utama 37,Bali-Nusra
+B-038,JNE Cabang Utama 38,Jawa Barat
+B-039,JNE Cabang Utama 39,Sumatera
+B-040,JNE Cabang Utama 40,Jawa Tengah
+B-041,JNE Cabang Utama 41,Sumatera
+B-042,JNE Cabang Utama 42,Jawa Tengah
+B-043,JNE Cabang Utama 43,Sulawesi
+B-044,JNE Cabang Utama 44,Sulawesi
+B-045,JNE Cabang Utama 45,Sulawesi
+B-046,JNE Cabang Utama 46,Kalimantan
+B-047,JNE Cabang Utama 47,Jawa Tengah
+B-048,JNE Cabang Utama 48,Kalimantan
+B-049,JNE Cabang Utama 49,Jawa Barat
+B-050,JNE Cabang Utama 50,Bali-Nusra
+B-051,JNE Cabang Utama 51,Kalimantan
+B-052,JNE Cabang Utama 52,Bali-Nusra
+B-053,JNE Cabang Utama 53,Jawa Barat
+B-054,JNE Cabang Utama 54,Bali-Nusra
+B-055,JNE Cabang Utama 55,Sulawesi
+B-056,JNE Cabang Utama 56,Kalimantan
+B-057,JNE Cabang Utama 57,Jawa Timur
+B-058,JNE Cabang Utama 58,Sulawesi
+B-059,JNE Cabang Utama 59,Bali-Nusra
+B-060,JNE Cabang Utama 60,Jawa Barat
+B-061,JNE Cabang Utama 61,Bali-Nusra
+B-062,JNE Cabang Utama 62,Sumatera
+B-063,JNE Cabang Utama 63,Sulawesi
+B-064,JNE Cabang Utama 64,Bali-Nusra
+B-065,JNE Cabang Utama 65,Jabodetabek
+B-066,JNE Cabang Utama 66,Bali-Nusra
+B-067,JNE Cabang Utama 67,Kalimantan
+B-068,JNE Cabang Utama 68,Bali-Nusra
+B-069,JNE Cabang Utama 69,Jabodetabek
+B-070,JNE Cabang Utama 70,Jawa Barat
+B-071,JNE Cabang Utama 71,Jawa Barat
+B-072,JNE Cabang Utama 72,Jawa Barat
+B-073,JNE Cabang Utama 73,Sumatera
+B-074,JNE Cabang Utama 74,Sumatera
+B-075,JNE Cabang Utama 75,Jawa Timur
+B-076,JNE Cabang Utama 76,Jawa Tengah
+B-077,JNE Cabang Utama 77,Sumatera
+B-078,JNE Cabang Utama 78,Sumatera
+B-079,JNE Cabang Utama 79,Jawa Tengah
+B-080,JNE Cabang Utama 80,Jawa Barat
+B-081,JNE Cabang Utama 81,Jawa Barat
+B-082,JNE Cabang Utama 82,Jabodetabek
+B-083,JNE Cabang Utama 83,Jabodetabek
+B-084,JNE Cabang Utama 84,Bali-Nusra
+B-085,JNE Cabang Utama 85,Sulawesi
+B-086,JNE Cabang Utama 86,Sulawesi
+B-087,JNE Cabang Utama 87,Bali-Nusra
+B-088,JNE Cabang Utama 88,Sulawesi
+B-089,JNE Cabang Utama 89,Kalimantan
+B-090,JNE Cabang Utama 90,Jawa Barat
+B-091,JNE Cabang Utama 91,Sumatera
+B-092,JNE Cabang Utama 92,Sulawesi
+B-093,JNE Cabang Utama 93,Bali-Nusra
+B-094,JNE Cabang Utama 94,Kalimantan
+B-095,JNE Cabang Utama 95,Sumatera
+B-096,JNE Cabang Utama 96,Jawa Barat
+B-097,JNE Cabang Utama 97,Jawa Barat
+B-098,JNE Cabang Utama 98,Jawa Tengah
+B-099,JNE Cabang Utama 99,Sumatera
+B-100,JNE Cabang Utama 100,Jawa Barat
+B-101,JNE Cabang Utama 101,Sumatera
+B-102,JNE Cabang Utama 102,Sulawesi
+B-103,JNE Cabang Utama 103,Bali-Nusra
+B-104,JNE Cabang Utama 104,Jabodetabek
+B-105,JNE Cabang Utama 105,Sulawesi
+B-106,JNE Cabang Utama 106,Bali-Nusra
+B-107,JNE Cabang Utama 107,Jabodetabek
+B-108,JNE Cabang Utama 108,Bali-Nusra
+B-109,JNE Cabang Utama 109,Sulawesi
+B-110,JNE Cabang Utama 110,Sulawesi
+B-111,JNE Cabang Utama 111,Sulawesi
+B-112,JNE Cabang Utama 112,Jawa Tengah
+B-113,JNE Cabang Utama 113,Jawa Tengah
+B-114,JNE Cabang Utama 114,Jabodetabek
+B-115,JNE Cabang Utama 115,Jawa Barat
+B-116,JNE Cabang Utama 116,Sumatera
+B-117,JNE Cabang Utama 117,Sulawesi
+B-118,JNE Cabang Utama 118,Bali-Nusra
+B-119,JNE Cabang Utama 119,Kalimantan
+B-120,JNE Cabang Utama 120,Bali-Nusra
+B-121,JNE Cabang Utama 121,Kalimantan
+B-122,JNE Cabang Utama 122,Jawa Barat
+B-123,JNE Cabang Utama 123,Bali-Nusra
+B-124,JNE Cabang Utama 124,Jawa Barat
+B-125,JNE Cabang Utama 125,Sumatera
+B-126,JNE Cabang Utama 126,Sulawesi
+B-127,JNE Cabang Utama 127,Sulawesi
+B-128,JNE Cabang Utama 128,Jawa Timur
+B-129,JNE Cabang Utama 129,Sumatera
+B-130,JNE Cabang Utama 130,Kalimantan
+B-131,JNE Cabang Utama 131,Jawa Barat
+B-132,JNE Cabang Utama 132,Jabodetabek
+B-133,JNE Cabang Utama 133,Jawa Timur
+B-134,JNE Cabang Utama 134,Jawa Barat
+B-135,JNE Cabang Utama 135,Jawa Barat
+B-136,JNE Cabang Utama 136,Sulawesi
+B-137,JNE Cabang Utama 137,Jabodetabek
+B-138,JNE Cabang Utama 138,Bali-Nusra
+B-139,JNE Cabang Utama 139,Jawa Timur
+B-140,JNE Cabang Utama 140,Jawa Tengah
+B-141,JNE Cabang Utama 141,Kalimantan
+B-142,JNE Cabang Utama 142,Jawa Tengah
+B-143,JNE Cabang Utama 143,Bali-Nusra
+B-144,JNE Cabang Utama 144,Jawa Tengah
+B-145,JNE Cabang Utama 145,Jawa Timur
+B-146,JNE Cabang Utama 146,Jabodetabek
+B-147,JNE Cabang Utama 147,Bali-Nusra
+B-148,JNE Cabang Utama 148,Sumatera
+B-149,JNE Cabang Utama 149,Bali-Nusra
+B-150,JNE Cabang Utama 150,Jawa Barat
