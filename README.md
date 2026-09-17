@@ -50,3 +50,4 @@ Aspek Temuan Utama Dampak Bisnis
 ## 6. Contact
 - Nama : Sari Theresia
 - Email : saritheresia88@gmail.com
+- Link Tableau: https://public.tableau.com/app/profile/sari.theresia/viz/DataAnalysis-CapstoneProjectModul2/JNEOperationalEfficiencyDashboard
