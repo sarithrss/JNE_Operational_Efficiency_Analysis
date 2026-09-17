@@ -14,15 +14,15 @@ meningkatkan kepuasan pelanggan, terutama di tengah lonjakan e-commerce dan pers
 - Objective 4: Memberikan rekomendasi strategis untuk efisiensi operasional dan peningkatan kualitas data.
 
 ## 2. Data Sources
-Dataset 1 (jne_shipments.csv): Data transaksi pengiriman JNE sebanyak 300.000 baris (awb_number, sender_id, origin_branch, dest_city, service_type, payment_type, weight_kg, pickup_date, delivered_date, status).
-Dataset 2 (jne_customers.csv): Data pelanggan sebanyak 30.000 baris (customer_id, city, customer_type).
-Dataset 3 (jne_branches.csv): Data cabang JNE sebanyak 150 baris (branch_code, branch_name, region).
+- Dataset 1 (jne_shipments.csv): Data transaksi pengiriman JNE sebanyak 300.000 baris (awb_number, sender_id, origin_branch, dest_city, service_type, payment_type, weight_kg, pickup_date, delivered_date, status).
+- Dataset 2 (jne_customers.csv): Data pelanggan sebanyak 30.000 baris (customer_id, city, customer_type).
+- Dataset 3 (jne_branches.csv): Data cabang JNE sebanyak 150 baris (branch_code, branch_name, region).
 
 ## 3. Technologies Used
-Programming Language: Python (Pandas, NumPy)
-Statistical Analysis: SciPy (Chi-Square Test, Anova)
-Visualization: Matplotlib, Seaborn, Tableau
-Environment: Jupyter Notebook
+- Programming Language: Python (Pandas, NumPy)
+- Statistical Analysis: SciPy (Chi-Square Test, Anova)
+- Visualization: Matplotlib, Seaborn, Tableau
+- Environment: Jupyter Notebook
 
 ## 4. Project Structure
 
