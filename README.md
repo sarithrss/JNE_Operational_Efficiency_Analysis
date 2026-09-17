@@ -8,10 +8,10 @@ Fokus utamanya adalah bagaimana pemahaman terhadap kualitas data dan pola risiko
 meningkatkan kepuasan pelanggan, terutama di tengah lonjakan e-commerce dan persaingan logistik yang semakin ketat.
 
 🎯 Key Objectives:
-Objective 1: Mengukur tingkat pelanggaran SLA dan mengidentifikasi akar penyebab keterlambatan antar jenis layanan (REG, YES, OKE).
-Objective 2: Membandingkan tingkat RTS antara metode pembayaran COD vs Prepaid serta menguji signifikansinya.
-Objective 3: Mengidentifikasi kebocoran pendapatan (revenue leakage) akibat anomali data berat dan kualitas data yang buruk.
-Objective 4: Memberikan rekomendasi strategis untuk efisiensi operasional dan peningkatan kualitas data.
+- Objective 1: Mengukur tingkat pelanggaran SLA dan mengidentifikasi akar penyebab keterlambatan antar jenis layanan (REG, YES, OKE).
+- Objective 2: Membandingkan tingkat RTS antara metode pembayaran COD vs Prepaid serta menguji signifikansinya.
+- Objective 3: Mengidentifikasi kebocoran pendapatan (revenue leakage) akibat anomali data berat dan kualitas data yang buruk.
+- Objective 4: Memberikan rekomendasi strategis untuk efisiensi operasional dan peningkatan kualitas data.
 
 ## 2. Data Sources
 Dataset 1 (jne_shipments.csv): Data transaksi pengiriman JNE sebanyak 300.000 baris (awb_number, sender_id, origin_branch, dest_city, service_type, payment_type, weight_kg, pickup_date, delivered_date, status).
