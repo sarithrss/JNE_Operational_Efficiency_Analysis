@@ -1,5 +1,3 @@
-#**JNE-Operational-Efficiency-Analysis**
-
 ## JNE Operational Efficiency Analysis
 
 ## 1. Project Overview
